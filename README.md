@@ -34,9 +34,9 @@ Download `OniBot.exe` and run it — no installation required.
 
 ## Support
 
-- **Discord**: [Join the OniBot server](#) *(link coming soon)*
+- **Discord**: [Join the OniBot server](https://discord.gg/9E8TjyBzp7) 
 - **Bug reports**: [Open an issue](https://github.com/firstoni-dev/OniBot-releases/issues)
-- **Support the project**: [KoFi](#) *(link coming soon)*
+- **Support the project**: [KoFi](https://ko-fi.com/firstoni) 
 
 ---
 

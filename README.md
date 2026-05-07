@@ -1,7 +1,7 @@
 # OniBot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/firstoni-dev/OniBot-releases/main/assets/icon_256.png" width="128" alt="OniBot icon"/>
+ 
 </p>
 
 <p align="center">
